@@ -2,9 +2,11 @@ body {
   max-width: 320px;
   margin: auto;
   background: #ddd;
+  text-align:center;
 }
 
 img {
   display: block;
   max-width: 100%;
 }
+
