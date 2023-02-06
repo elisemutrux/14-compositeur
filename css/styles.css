@@ -6,7 +6,7 @@ body {
   color: white;
   font-family: elza-narrow, sans-serif;
   font-weight: 300;
-  font-size :15px;
+  font-size :18px;
 }
 
 img {
@@ -34,13 +34,13 @@ nav a {
 h2{
   font-family: fino-sans, sans-serif;
   font-weight: 700;
-  font-size: 42px;
+  font-size: 45px;
 }
 
 h3{
   font-family: fino-sans, sans-serif;
   font-weight: 700;
-  font-size: 26px;
+  font-size: 28px;
 }
 
 h4{
@@ -53,6 +53,19 @@ footer p{
   font-size: 12px;
 }
 
-.size {
-  font-size: 12px;
+.legend {
+  font-size: 14px;
+}
+
+footer{
+  background: #3d3d3d;
+}
+
+.biographie{
+  background: #c0c0c0;
+  color:black;
+}
+
+.resume{
+  background: #808181;
 }
