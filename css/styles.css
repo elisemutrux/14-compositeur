@@ -1,8 +1,9 @@
 body {
   max-width: 320px;
   margin: auto;
-  background: #ddd;
-  text-align:center;
+  background: black;
+  text-align: center;
+  color: white;
 }
 
 img {
@@ -10,3 +11,6 @@ img {
   max-width: 100%;
 }
 
+h1 {
+  color: #b11a2c;
+}
