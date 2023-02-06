@@ -26,6 +26,11 @@ nav{
   font-size: 20px;
 }
 
+nav a {
+  color: white;
+  padding: 10px 20px
+}
+
 h2{
   font-family: fino-sans, sans-serif;
   font-weight: 700;
