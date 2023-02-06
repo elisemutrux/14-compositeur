@@ -4,6 +4,9 @@ body {
   background: black;
   text-align: center;
   color: white;
+  font-family: elza-narrow, sans-serif;
+  font-weight: 300;
+  font-size :15px;
 }
 
 img {
@@ -13,4 +16,38 @@ img {
 
 h1 {
   color: #b11a2c;
+  font-size: 55px;
+  font-family: modish, sans-serif;
+  font-weight: 400;
+}
+nav{
+  font-family: fino-sans, sans-serif;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+h2{
+  font-family: fino-sans, sans-serif;
+  font-weight: 700;
+  font-size: 42px;
+}
+
+h3{
+  font-family: fino-sans, sans-serif;
+  font-weight: 700;
+  font-size: 26px;
+}
+
+h4{
+  font-family: fino-sans, sans-serif;
+  font-weight: 700;
+  font-size: 22px;
+}
+
+footer p{
+  font-size: 12px;
+}
+
+.size {
+  font-size: 12px;
 }
