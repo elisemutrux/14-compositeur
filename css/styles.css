@@ -83,7 +83,7 @@ header nav{
 }
 
 header img{
-  width: 222px;
+  width: 225px;
   height: 336px;
   margin:auto;
 }
@@ -102,4 +102,9 @@ main img{
   width:140px;
   height: 100px;
   margin:auto;
+}
+
+.photofilm {
+  width: 225px;
+  height: 125px;
 }
