@@ -63,14 +63,19 @@ footer p{
 .biographie{
   color:black;
   background-image: url("../img/fond/clair.png");
-  padding: 30px 60px 20px 60px;
+  padding: 30px 60px 55px 60px;
   margin: 0 0 30px 0;
 }
 
 .resume{
   background-image: url("../img/fond/moyen.png");
+  padding: 30px 60px 55px 60px;
+  margin: 0 0 30px 0;
 }
 
+.info {
+  padding: 30px 60px 55px 60px;
+}
 footer{
   background-image: url("../img/fond/foncer.png");
 }
@@ -107,4 +112,8 @@ main img{
 .photofilm {
   width: 225px;
   height: 125px;
+}
+
+nav a {
+  text-decoration: none;
 }
