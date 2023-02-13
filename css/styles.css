@@ -1,7 +1,7 @@
 body {
   max-width: 320px;
   margin: auto;
-  background: black;
+  background: #0e0d0e;
   text-align: center;
   color: white;
   font-family: elza-narrow, sans-serif;
@@ -19,11 +19,12 @@ h1 {
   font-size: 55px;
   font-family: modish, sans-serif;
   font-weight: 400;
+  margin: 20px 0 0 0;
 }
 nav{
   font-family: fino-sans, sans-serif;
   font-weight: 700;
-  font-size: 20px;
+  font-size: 19px;
 }
 
 nav a {
@@ -35,6 +36,7 @@ h2{
   font-family: fino-sans, sans-serif;
   font-weight: 700;
   font-size: 45px;
+  margin: 0 0 23px 0;
 }
 
 h3{
@@ -54,18 +56,50 @@ footer p{
 }
 
 .legend {
-  font-size: 14px;
-}
-
-footer{
-  background: #3d3d3d;
+  font-size: 13px;
+  margin: 15px 45px 55px 45px;
 }
 
 .biographie{
-  background: #c0c0c0;
   color:black;
+  background-image: url("../img/fond/clair.png");
+  padding: 30px 60px 20px 60px;
+  margin: 0 0 30px 0;
 }
 
 .resume{
-  background: #808181;
+  background-image: url("../img/fond/moyen.png");
+}
+
+footer{
+  background-image: url("../img/fond/foncer.png");
+}
+
+header nav{
+  border-bottom: 3px solid white;
+  border-top: 3px solid white;
+  margin: 0 0 30px 0;
+  padding: 10px;
+}
+
+header img{
+  width: 222px;
+  height: 336px;
+  margin:auto;
+}
+
+p{
+  margin:0;
+}
+
+main img{
+  width:225px;
+  height: 285px;
+  margin: auto;
+}
+
+.logo{
+  width:140px;
+  height: 100px;
+  margin:auto;
 }
