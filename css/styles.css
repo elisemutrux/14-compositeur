@@ -62,6 +62,7 @@ footer p{
 
 .biographie{
   color:black;
+  background: #808181;
   background-image: url("../img/fond/clair.png");
   padding: 30px 60px 55px 60px;
   margin: 0 0 30px 0;
@@ -116,4 +117,23 @@ main img{
 
 nav a {
   text-decoration: none;
+}
+
+.music {
+  padding: 0 60px 55px 60px;
+  margin: 0 0 30px 0;
+}
+
+em{
+  color:#b11a2c;
+  font-style: normal;
+}
+
+hr{
+  margin: 30px;
+}
+
+.music{
+  padding:0;
+  margin: 50px 47px 30px 47px;
 }
